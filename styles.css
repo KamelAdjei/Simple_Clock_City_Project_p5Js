@@ -1,0 +1,28 @@
+/*Defining the background with an image*/
+body{
+  background-color: #255;
+  background-image: url("https://www.transparenttextures.com/patterns/black-linen.png");
+}
+
+/*Defining the Header text*/
+h1{
+   text-decoration: underline;
+   font-family:  Trebuchet MS;
+   color: white;
+   text-align: center;
+   font-size: 65px;
+}
+
+#TimeWindow{
+  /* posititing the canvas to the center of the webpage */
+    width: 1280px;
+    margin: 30px auto;
+}
+
+  /* declaring the footer and editing it */
+h2{
+  font-family:  Trebuchet MS;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+}
