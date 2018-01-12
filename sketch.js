@@ -19,7 +19,7 @@ function preload(){
 }
 
 function setup() {
-  //create Canvas based on assignment values. 1,280 pixels by 720 pixels
+  //create Canvas based on assignment values. 1,280 pixels by 720 pixels.
   canvas = createCanvas(1280,720);
   canvas.parent("TimeWindow");
 
