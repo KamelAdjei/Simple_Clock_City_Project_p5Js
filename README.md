@@ -1,4 +1,4 @@
-# Kamel.Adjei-DAT405-2
+# Simple Clock Cities
 Simple sketch of four locations displaying time
 
 This work was inspired by the works of  Daniel Shiffman, John Maeda and Caleb Brewer, who have all made examples of clocks similar to my work.
